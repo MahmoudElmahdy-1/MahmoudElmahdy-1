@@ -46,8 +46,11 @@ And Yah.. I'm also a YouTuber
   <!-- ====================================================== for github statistics ====================================================== -->
 <!--
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudElmahdy-1&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudElmahdy-1&theme=algolia&hide_border=true" alt="GitHub Streak" height="160px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MahmoudElmahdy-1&border_radius=15&show_icons=true&theme=highcontrast" alt="Mahmoud's GitHub stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudElmahdy-1&border_radius=15&theme=highcontrast" alt="Mahmoud's GitHub Streak" height="160px"/>
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MahmoudElmahdy-1}/count.svg" /></p> 
 </div>
 -->
 
