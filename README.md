@@ -26,12 +26,11 @@
 
 <!-- ========================================================== for the bio ========================================================== -->
 ```yaml
-I am a junior Flutter developer passionate about building responsive, user-friendly and beautiful mobile apps.
-With a strong foundation in Dart and Flutter, I enjoy solving problems, learning new technologies,   
-and collaborating on innovative projects.
-Additionally, I have over 5 years of experience in graphic design and video editing, which enhances my ability 
-to create  visually appealing and engaging applications.
-And Yah.. I'm also a YouTuber
+Junior Flutter Developer passionate about building responsive, user-friendly and beautiful mobile apps.
+With a strong foundation in Dart and Flutter, I enjoy solving problems, learning new technologies,
+and collaborating on innovative projects. My 5+ years of experience in graphic design and video editing
+enhance my ability to create visually appealing and engaging applications
+And Yeah.. I'm also a YouTuber 💙
 ```
 <br>
 
