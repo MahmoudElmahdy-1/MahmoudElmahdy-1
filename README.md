@@ -1,6 +1,6 @@
  <!-- ====================================================== This the top header ====================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey+There!&height=100&section=header&animation=fadeIn&fontAlignY=40&fontSize=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey+There!&height=100&section=header&animation=fadeIn&fontAlignY=40&fontSize=45&fontColor=808080"/>
 </p>
 
 
@@ -91,6 +91,7 @@ And Yah.. I'm also a YouTuber
 <p>Feel free to reach out for collaborations or just to say hi!</p>
   
   [!["YouTube"](https://img.shields.io/badge/YouTube-Elmahdy-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/MahmoudElmahdy)
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/MahmoudElmahdy1)
   [!["Behance"](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/Mahmoud_Elmahdy)
   [!["TikTok"](https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@m_elmahdy_1)
   [!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Mahmoud.Elmahdy.127)
@@ -98,17 +99,13 @@ And Yah.. I'm also a YouTuber
   [!["Gmail"](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elmahdy.contact@gmail.com)
 <!--
   [!["My Website"](https://img.shields.io/badge/Website-Elmahdyzone.com-orange)](https://Elmahdyzone.com)
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/MahmoudElmahdy1)
   -->
 <br>
 
 <!-- ============================================================ for the cv ============================================================ -->
-<!--
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/...." download>Download my resume</a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
--->
+### 💼 Interested in Hiring Me?
+> [📄 Click here to view/download my resume](https://drive.google.com/file/d/1STxmM14SJe0aT0de1pCSzKDxAUNppeVx/view)
+<br>
 
 <!-- ======================================================== for buy me a coffee ======================================================== -->
 
@@ -123,6 +120,6 @@ You can support me, buy me a **Book**, or a **Coffee**.
 
 <!-- ======================================================= for the bottom header ======================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks+for+being+my+guest&height=100&section=footer&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks+for+being+my+guest&height=100&section=footer&fontSize=40&fontColor=808080"/>
 </p>
 
