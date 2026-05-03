@@ -26,7 +26,7 @@
 
 <!-- ========================================================== for the bio ========================================================== -->
 ```yaml
-Junior Flutter Developer passionate about building responsive, user-friendly and beautiful mobile apps.
+Flutter Developer passionate about building responsive, user-friendly and beautiful mobile apps.
 With a strong foundation in Dart and Flutter, I enjoy solving problems, learning new technologies,
 and collaborating on innovative projects. My 5+ years of experience in graphic design and video editing
 enhance my ability to create visually appealing and engaging applications
